@@ -15,6 +15,10 @@ apt install curl -y
 apt install zip -y
 pkg install wget -y
 pkg install ncurses-utils -y
+git clone https://github.com/Bhaviktutorials/shark
+cd shark
+mv phs ..
+rm -rf shark
 clear
 echo
 echo
