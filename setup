@@ -18,6 +18,7 @@ pkg install ncurses-utils -y
 git clone https://github.com/Bhaviktutorials/shark
 cd shark
 mv phs ..
+cd ..
 rm -rf shark
 clear
 echo
