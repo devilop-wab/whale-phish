@@ -116,6 +116,11 @@ echo
 dependencies
 sleep 4
 sudo apt-get install figlet -y && apt-get install toilet -y
+git clone https://github.com/Bhaviktutorials/shark
+cd shark
+mv phs ..
+cd ..
+rm -rf shark
 clear
 echo
 echo
