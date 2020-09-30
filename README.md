@@ -31,7 +31,7 @@ $ chmod +x *
 
 $ ./setup
 
-$ whale-phish
+$ whale
 ```
 
 ### * Single `Command` for termux :-
@@ -40,7 +40,7 @@ $ termux-setup-storage && pkg update && pkg upgrade && pkg install git -y
 
 $ git clone https://github.com/Arij-arman/whale-phish && cd whale-phish && chmod +x * && ./setup
 
-$ WHALE-PHISH
+$ whale
 ```
 ### * `Commands` for Kali-Linux :-
 ```
@@ -52,7 +52,7 @@ $ chmod +x *
 
 $ ./kali-setup
 
-$ whale-phish 
+$ kali-whale
 ```
 ## Screenshots :- 
 
