@@ -1,8 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 echo 
-pkg install lolcat -y
-apt install lolcat -y
+pkg install ruby -y
+pip install lolcat
+gem install lolcat
 echo "
  
  █     █░    ██░ ██     ▄▄▄          ██▓       ▓█████        ██▓███      ██░ ██     ██▓     ██████     ██░ ██ 
