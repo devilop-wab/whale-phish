@@ -50,7 +50,7 @@ echo "
   
 					     
 
-                                                                                                  version- 1.2.0          " |lolcat
+                                                                           version- 1.2.0       " |lolcat -a -d 700
 													    
 echo
 sleep 7
